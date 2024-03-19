@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-List<Double> data = readData("C:/Users/USER/Documents/Tobi things/year 2/uni work semester 1/ADS Assessment due january/Project 6/data.csv");
+List<Double> data = readData("data.csv"); //reference to the data.csv file doc
 static List<Double> readData(string filename)
 {
     List<Double> res = new List<double>();
