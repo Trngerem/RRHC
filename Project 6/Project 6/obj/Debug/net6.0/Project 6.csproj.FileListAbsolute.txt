@@ -1,0 +1,28 @@
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.exe
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.deps.json
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.runtimeconfig.json
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.dll
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.pdb
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.AssemblyInfo.cs
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.dll
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\refint\Project 6.dll
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.pdb
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.genruntimeconfig.cache
+C:\Users\USER\Documents\Tobi things\uni work\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\ref\Project 6.dll
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.exe
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.deps.json
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.runtimeconfig.json
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.dll
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\bin\Debug\net6.0\Project 6.pdb
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.AssemblyInfo.cs
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.dll
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\refint\Project 6.dll
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.pdb
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\Project 6.genruntimeconfig.cache
+C:\Users\USER\Documents\Tobi things\year 2\uni work semester 1\ADS Assessment due january\Project 6\Project 6\obj\Debug\net6.0\ref\Project 6.dll
